@@ -66,9 +66,9 @@ body {
 }
 
 .section {
-  position: sticky;
+/*   position: sticky;
   position: -webkit-sticky;
-  top: 0;
+  top: 0; */
   scroll-snap-align: start;
   scroll-snap-stop: always;
   width: 100vw;

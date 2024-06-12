@@ -65,15 +65,7 @@ body {
 
 }
 
-/* .section {
-  position: sticky;
-  position: -webkit-sticky;
-  top: 0;
-  scroll-snap-align: start;
-  scroll-snap-stop: always;
-  width: 100vw;
-  height: 100vh; /* Ensure each section snaps to the start of the container */
-} */
+
 
 .section {
   scroll-snap-align: start;
